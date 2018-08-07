@@ -4,4 +4,4 @@ All dockerfiles are set up so that the working directory is `/code` and is owned
 
 The available dockerfiles are:
 
-- [r](r/) - `R` interpreter and common packages.
+- [r-core](r-core/) - `R` interpreter and common packages.
